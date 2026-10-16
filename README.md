@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Aland
 
-<!--
-**Aland2110/Aland2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing an MSc in Computer Science and Engineering at the
+Technical University of Denmark (DTU), building on a BSc in Software Technology.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, artificial intelligence, algorithms,
+cybersecurity, cloud technologies and building practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on projects where I can learn new technologies, solve technical
+problems and turn ideas into working applications.
+
+## 🎓 Education
+
+**Technical University of Denmark (DTU)**  
+MSc in Computer Science and Engineering  
+2026 – Present
+
+**Technical University of Denmark (DTU)**  
+BSc in Software Technology  
+2023 – 2026
+
+## 💻 Technologies
+
+- Java
+- Python
+- C / C++
+- SQL
+- Git & GitHub
+- Docker
+- Jenkins
+- Linux
+- REST & SOAP APIs
+- JUnit & Cucumber
+
+## 🚀 Projects
+
+### Payment System
+Java-based microservice payment platform using REST/SOAP APIs, Docker,
+Jenkins, JUnit and Cucumber.
+
+### RoboRally
+Online multiplayer game developed in Java as part of a 10-person development
+team using Git, pull requests and code reviews.
+
+### Store Management Database
+Relational database project using SQL and MariaDB, including data modelling,
+joins, procedures and triggers.
+
+### RISC-V Simulator
+Simulator developed in C for executing RISC-V instructions and working with
+registers and memory.
+
+## 🏅 Certifications
+
+- AWS Certified AI Practitioner
+
+## 🔗 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/aland-a-92b84534b)
